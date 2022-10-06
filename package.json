@@ -1,0 +1,20 @@
+{
+  "name": "ptgame168v4",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "ptgame168 สมัครสมาชิก",
+    "ptgame168 สล็อตเว็บตรง",
+    "ptgame168 สมัครสล็อต",
+    "ptgame168 สมัครสล็อตเว็บตรง",
+    "ptgame168 สล็อตเว็บตรงไม่ผ่านเอเย่นต์",
+    "ptgame168 เว็บสล็อต",
+    "ptgame168 เว็บสล็อตเว็บตรง",
+  ],
+  "repository": "https://github.com/atom/ptgame168v4",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
